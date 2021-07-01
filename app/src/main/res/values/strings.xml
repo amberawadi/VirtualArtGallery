@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">VirtualArtGallery</string>
+    <string name="welcome_to_the_virtual_art_gallery">Welcome to the Virtual Art Gallery!</string>
+    <string name="explore">Explore</string>
+    <string name="title_activity_artwork_list">ArtworkList</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="submit_art">Submit Art</string>
+    <string name="artwork_title">Artwork Title:</string>
+    <string name="please_fill_out_all_fields_to_submit_your_artwork">Please Fill Out All Fields to Submit Your Artwork</string>
+    <string name="artist_s_name">Artist\'s Name:</string>
+    <string name="artwork_url">Artwork URL:</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
+    <string name="artwork_image">Artwork Image:</string>
+    <string name="open">Open...</string>
+    <string name="thank_you_for_your_submission_our_team_will_be_reviewing_your_submission">Thank you for your submission! Our team will be reviewing your submission!</string>
+    <string name="please_give_us_24_to_48_hours_before_your_submission_is_visible">Please give us 24 to 48 hours before your submission is visible</string>
+    <string name="faqs">FAQs</string>
+    <string name="if_my_artwork_hasn_t_shown_up_in_48_hours_what_should_i_do">If my artwork hasn\'t shown up in 48 hours, what should I do?</string>
+    <string name="if_your_art_has_yet_to_appear_on_the_list_it_is_possible_that_it_may_have_been_rejected_by_our_team_please_e_mail_us_at_k0425482_kellogg_edu_with_your_name_art_title_and_the_art_piece_you_were_trying_to_submit">If your art has yet to appear on the list, it is possible that it may have been rejected by our team. Please e-mail us at k0425482@kellogg.edu with your name, art title and the art piece you were trying to submit.</string>
+    <string name="i_would_like_to_submit_artwork_on_someone_else_s_behalf_is_that_possible">I would like to submit artwork on someone else\'s behalf, is that possible?</string>
+    <string name="if_you_have_direct_permission_from_said_person_to_submit_their_artwork_then_that_is_fine_if_our_team_has_found_that_the_artist_did_not_give_permission_your_submission_will_be_removed_and_you_will_be_unable_to_submit_anymore_artwork">If you have direct permission from said person to submit their artwork, then that is fine. If our team has found that the artist did NOT give permission, your submission will be removed and you will be unable to submit anymore artwork.</string>
+    <string name="return_to_menu">Return to Menu</string>
+    <string name="required">*Required</string>
+</resources>
